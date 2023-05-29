@@ -389,13 +389,13 @@ public partial class FrmMain : Form
 
     private void TsGithub_Click(object sender, EventArgs e)
     {
-        //const string target = "https://github.com/chr233/WinAuth2SDA";
-        //OpenLink(target);
+        const string target = "https://github.com/chr233/SDATools";
+        OpenLink(target);
     }
 
     private void TsVersion_Click(object sender, EventArgs e)
     {
-        //const string target = "https://github.com/chr233/WinAuth2SDA/releases";
-        //OpenLink(target);
+        const string target = "https://github.com/chr233/SDATools/releases";
+        OpenLink(target);
     }
 }
